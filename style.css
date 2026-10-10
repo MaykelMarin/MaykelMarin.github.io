@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #fff3e0;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+td {
+    padding: 15px;
+    border: 1px solid #dddddd;
+    text-align: center;
+}
+
+.encabezado {
+    background-color: #d84315;
+    color: white;
+}
+
+.encabezado h1 {
+    font-size: 40px;
+    margin: 10px;
+}
+
+.encabezado p {
+    color: white;
+}
+
+.menu {
+    background-color: #ff9800;
+}
+
+.menu td {
+    padding: 15px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    color: #5d4037;
+}
+
+h2 {
+    color: #d84315;
+    font-size: 28px;
+}
+
+h3 {
+    color: #e65100;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.productos td {
+    width: 25%;
+    vertical-align: top;
+}
+
+.productos img {
+    width: 180px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.productos strong {
+    color: #d84315;
+    font-size: 20px;
+}
+
+.titulo {
+    background-color: #ffcc80;
+}
+
+.promocion {
+    background-color: #ffe082;
+}
+
+.promocion strong {
+    color: #d84315;
+    font-size: 18px;
+}
+
+.contacto {
+    background-color: #ffcc80;
+    text-align: left;
+}
+
+.contacto a {
+    color: #d84315;
+    text-decoration: none;
+}
+
+.contacto a:hover {
+    text-decoration: underline;
+}
+
+.pie {
+    background-color: #d84315;
+    color: white;
+}
+
+.pie p {
+    color: white;
+}
+
+.pie strong {
+    color: white;
+}
+
+strong {
+    color: #d84315;
+}
